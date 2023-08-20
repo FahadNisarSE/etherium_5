@@ -2653,6 +2653,6 @@
   .why-us-section {
     display: grid;
     grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
-    align-items: stretch;
+    justify-content: center;
     gap: 1rem;
   }
